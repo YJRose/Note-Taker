@@ -25,7 +25,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Mock-up
 The following images show the web application's appearance and functionality:
-(Develop/others/notes.jpg)
+(./Develop/others/notes.jpg)
 
 
 ---
