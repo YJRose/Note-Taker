@@ -27,9 +27,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 The following images show the web application's appearance and functionality:
 ![notes](./others/notes.jpg)
 
+###Reference/modify code from the mini project.
 
 
-Reference/modify code from the mini project.
 ---
 © 2023 YJLin Bootcamp Challenge accepted! 👓
 
