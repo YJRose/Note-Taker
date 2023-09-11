@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
-const { clog } = require('./Develop/middleware/clog');
-const api = require('./Develop/routes/index.js');
+const { clog } = require('./middleware/clog');
+const api = require('./routes/index.js');
 
 const PORT = process.env.PORT || 3001;
 
@@ -19,12 +19,12 @@ app.use(express.static('public'));
 
 // GET Route for homepage
 app.get('/', (req, res) =>
-  res.sendFile(path.join(__dirname, '/Develop/public/index.html'))
+  res.sendFile(path.join(__dirname, '/public/index.html'))
 );
 
 // GET Route for feedback page
 app.get('/notes', (req, res) =>
-  res.sendFile(path.join(__dirname, '/Develop/public/notes.html'))
+  res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
 
 
