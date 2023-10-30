@@ -29,7 +29,7 @@ The following images show the web application's appearance and functionality:
 
 *Reference/modify code from the mini project.
 
-Heroku link:
+Heroku link: https://note-taker-rose-6f977f91226e.herokuapp.com/
 ---
 © 2023 YJLin Bootcamp Challenge accepted! 👓
 
